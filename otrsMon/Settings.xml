@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>MySQLServer</Key>
+    <Value>jane</Value>
+  </Settings>
+  <Settings>
+    <Key>MySQLUsername</Key>
+    <Value>otrs</Value>
+  </Settings>
+  <Settings>
+    <Key>MySQLPassword</Key>
+    <Value>iGR93eqOrX3+smnuALBZUg==</Value>
+  </Settings>
+  <Settings>
+    <Key>MySQLDB</Key>
+    <Value>otrs</Value>
+  </Settings>
+  <Settings>
+    <Key>smtpServer</Key>
+    <Value>weaver.sacnativehealth.org</Value>
+  </Settings>
+  <Settings>
+    <Key>smtpPort</Key>
+    <Value>25</Value>
+  </Settings>
+  <Settings>
+    <Key>emailAddress</Key>
+    <Value>your email or text</Value>
+  </Settings>
+  <Settings>
+    <Key>emailUsername</Key>
+    <Value>AD username</Value>
+  </Settings>
+  <Settings>
+    <Key>emailPassword</Key>
+    <value>foobar</value>
+  </Settings>
+  <Settings>
+    <Key>otrsQueues</Key>
+    <Value>Raw</Value>
+  </Settings>
+  <Settings>
+    <Key>refreshRate</Key>
+    <Value>30</Value>
+  </Settings>
+  <Settings>
+    <Key>soundFile</Key>
+    <Value>C:\Windows\Media\chord.wav</Value>
+  </Settings>
+  <Settings>
+    <Key>soundOn</Key>
+    <Value>True</Value>
+  </Settings>
+</NewDataSet>
